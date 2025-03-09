@@ -1,6 +1,6 @@
 # API for the interview task for frontend developers
 
-This repository contains a server with a JSON file that plays the role of a database in the [Products repository]([https://development.kameleoon.net/oivanov/frontend-interview-task](https://github.com/tab11pm/Cards).
+This repository contains a server with a JSON file that plays the role of a database in the [Products repository](https://github.com/tab11pm/Cards).
 
 You need to create your own local copy and work with it via the API.
 
